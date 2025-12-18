@@ -1,0 +1,5 @@
+{
+  "name": "HoloSkill 3D",
+  "description": "A gamified productivity tool featuring a 3D evolving capability sphere. Complete tasks tagged with specific attributes (Strength, Intellect, etc.) to grow your multi-dimensional stat graph in real-time.",
+  "requestFramePermissions": []
+}
